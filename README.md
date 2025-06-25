@@ -23,3 +23,12 @@ npm init
 npm create vite@latest .
 npm install 
 ```
+
+Para arrancar nuestro proyecto tenemos dos opciones:
+1. Arrancar en modo dev
+2. Arrancar en modo build
+
+```shell
+1. npm run dev
+2. npm build
+```
